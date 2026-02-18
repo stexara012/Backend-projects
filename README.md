@@ -9,3 +9,6 @@
 
 
 4.Free Sample Pack SaaS – Fullstack project with JWT authentication, MongoDB user management, and dynamic audio sample sliders. Users can register, login, and download premium samples, with real-time audio wave visualization. Built with Node.js, Express, TailwindCSS, and MongoDB.
+
+
+5.Full-stack Spotify Clone with JWT Auth and Local + API Music Playback.
