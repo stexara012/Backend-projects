@@ -9,3 +9,5 @@
 5.Full-stack Spotify Clone with JWT Auth and Local + API Music Playback.
 
 6.StayBnb – full-stack vacation rental app with search, login/register, and dynamic listings using Express, MongoDB & JWT.
+
+7."Velora Chat is a real-time full-stack chat application built with Node.js, Socket.IO, and MongoDB. Messages are persistent, and users can chat instantly in a modern, responsive interface."
