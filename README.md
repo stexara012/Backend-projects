@@ -11,3 +11,6 @@
 6.StayBnb – full-stack vacation rental app with search, login/register, and dynamic listings using Express, MongoDB & JWT.
 
 7."Velora Chat is a real-time full-stack chat application built with Node.js, Socket.IO, and MongoDB. Messages are persistent, and users can chat instantly in a modern, responsive interface."
+
+
+8.YouTube-style video player with likes, comments,delete, JWT auth, dark/light mode, and interactive UI for portfolio.
