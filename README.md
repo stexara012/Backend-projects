@@ -14,3 +14,5 @@
 
 
 8.YouTube-style video player with likes, comments,delete, JWT auth, dark/light mode, and interactive UI for portfolio.
+
+9.LinkedIn Clone – A full-stack app built with React, Node.js, and MongoDB, featuring user authentication, post creation, likes, comments, and a dynamic feed. Includes a responsive layout with sidebar, navbar, and interactive components for a complete user experience.
