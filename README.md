@@ -2,7 +2,7 @@
 
 2. Social Book project-Set up an Express server with MongoDB connection (Mongoose)
 
-3.Amazon Clone Web App Fullstack mini e-commerce project with login/register modal, guest cart via localStorage, add/remove products, update quantities, dynamic cart counter, backend API integration for user cart, and responsive design.
+3.Amazon Clone Web App Fullstack mini e-commerce project with login/register modal, guest cart via localStorage, add/remove products, update quantities, dynamic cart counter, backend API integration for user cart, and responsive design (This project was refactored and debugged to resolve multiple backend issues, including 500 Internal Server Errors, duplicate cart logic, and incorrect guest vs authenticated user cart handling. The bcrypt pre-save hook issue was identified and fixed to ensure proper password hashing during registration.Additionally, the application was thoroughly validated through manual testing, with documented test cases provided in Excel, along with API testing via Postman.).
 
 4.Free Sample Pack SaaS – Fullstack project with JWT authentication, MongoDB user management, and dynamic audio sample sliders. Users can register, login, and download premium samples, with real-time audio wave visualization. Built with Node.js, Express, TailwindCSS, and MongoDB.
 
