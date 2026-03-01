@@ -8,7 +8,9 @@
 
 5.Full-stack Spotify Clone with JWT Auth and Local + API Music Playback.
 
-6.StayBnb – full-stack vacation rental app with search, login/register, and dynamic listings using Express, MongoDB & JWT.
+6.StayBnb – full-stack vacation rental app with search, login/register, and dynamic listings using Express, MongoDB & JWT(# StayBnb QA & E2E Testing
+
+This project showcases **manual and automated testing** for the StayBnb platform. I created **34 test cases** covering core features like page load, login modal, search functionality, alerts, localStorage verification, and database setup/cleanup. Automated tests are implemented with **Selenium WebDriver** to reproduce user workflows, while manual testing ensures edge cases and usability are verified. This workflow demonstrates integration of **QA practices with full-stack development**, highlighting both testing skills and real-world application debugging.).
 
 7."Velora Chat is a real-time full-stack chat application built with Node.js, Socket.IO, and MongoDB. Messages are persistent, and users can chat instantly in a modern, responsive interface."
 
