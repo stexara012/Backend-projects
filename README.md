@@ -6,7 +6,7 @@
 
 4.Free Sample Pack SaaS – Fullstack project with JWT authentication, MongoDB user management, and dynamic audio sample sliders. Users can register, login, and download premium samples, with real-time audio wave visualization. Built with Node.js, Express, TailwindCSS, and MongoDB.
 
-5.Full-stack Spotify Clone with JWT Auth and Local + API Music Playback.
+5.Full-stack Spotify Clone with JWT Auth and Local + API Music Playback.(I automated the login and registration flow with user display and logout functionality, fixed streaming for all songs in the library and playlist, and added automated song playback testing using Selenium WebDriver. The app now detects existing users, supports playback of all valid MP3 files, and logs test results to a JSON file.)
 
 6.StayBnb – full-stack vacation rental app with search, login/register, and dynamic listings using Express, MongoDB & JWT(# StayBnb QA & E2E Testing
 
